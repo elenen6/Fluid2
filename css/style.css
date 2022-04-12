@@ -4,6 +4,11 @@ html, body {
 }
 body{
 	padding: 2%;
+	padding-top: 0;
+}
+.title{
+	text-align: center;
+	line-height: 18px;
 }
 .main-wraper{
 	background-color: #042F5F;
@@ -72,4 +77,5 @@ body{
 }
 .light-blue-box p{
 	text-align: center;
+	color: #fff;
 }
